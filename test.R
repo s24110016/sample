@@ -1,1 +1,1 @@
-plot(1:9)
+print("Hello, Git!")
